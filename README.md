@@ -27,19 +27,19 @@ file:///tmp/VMwareDnD/LRYpbG/Screenshot 2026-10-21 162627.png
    ```bash
    git clone https://github.com/ndjr2903/cyber_life.git
    cd cyber_life
-   ```bash
+   ```
 
 1. **יצירת סביבה וירטואלית (כולל הפעלת הסביבה הסביבה הוירטואלית):**
    ```bash
    python3 -m venv ~/recon-env
    source ~/recon-env/bin/activate
-   ```bash
+   ```
 
 
 1. **התקנת הספריות והתלויות הנדרשות מתוך הקובץ:**
    ```bash
    pip install -r requirements.txt
-   ```bash
+   ```
 
 # 🚀 הפעלת הכלי (Usage)
 לאחר שהסביבה פעילה והתלויות מותקנות, הפעל את הסקריפט:

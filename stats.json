@@ -1,0 +1,10 @@
+{
+    "rsa_rsa.txt": 1,
+    "aes_rsa.txt": 2,
+    "hybrid_aes.txt": 2,
+    "remote_readme.txt": 1,
+    "aes_dc.txt": 1,
+    "aes_sdd.txt": 1,
+    "hybrid_sdd.txt": 1,
+    "aes_new empty file.txt": 1
+}
